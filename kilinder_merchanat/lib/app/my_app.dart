@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:kilinder_merchanat/utils/constant/app_colors.dart';
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
@@ -23,6 +24,6 @@ class homePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return  Scaffold(appBar: AppBar(title: Text("welefblfiwE;n;oicome"),),);
+    return  Scaffold(appBar: AppBar(title: const Text("welefblfiwE;n;oicome",style: TextStyle(color: AppColor.mainBackGround),),),);
   }
 }
