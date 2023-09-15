@@ -24,6 +24,6 @@ class homePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return  Scaffold(appBar: AppBar(title: const Text("welefblfiwE;n;oicome",style: TextStyle(color: AppColor.mainBackGround),),),);
+    return  Scaffold(appBar: AppBar(title: const Text("f baljsbclabclcn;asNxk;nS;KN;ksnjsanCkxjjcSxncdsncdcblhbascblasdbclea;n;oicome",style: TextStyle(color: AppColor.mainBackGround),),),);
   }
 }
